@@ -8,13 +8,15 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex justify-between items-center">
             <div className="flex items-center">
-              <Image 
-                src="/logo.svg"
-                alt="UBAH Logo"
-                width={120}
-                height={40}
-                className="h-10 w-auto"
-              />
+              <a href="https://ubah.app" className="hover:opacity-90 transition-opacity">
+                <Image 
+                  src="/logo.svg"
+                  alt="UBAH Logo"
+                  width={120}
+                  height={40}
+                  className="h-10 w-auto"
+                />
+              </a>
             </div>
             <nav>
               <a 
