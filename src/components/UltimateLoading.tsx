@@ -27,8 +27,6 @@ const UltimateLoading = () => {
 
       {/* Content Container */}
       <div className="relative z-10 flex flex-col items-center justify-center">
-
-
         {/* Rotating Cube with Logo */}
         <div className="cube-wrapper">
           <div className="cube">
