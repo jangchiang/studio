@@ -22,7 +22,7 @@ export default function Home() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <div className="flex justify-between items-center">
               <div className="flex items-center">
-                <a href="https://bah.app" className="hover:opacity-90 transition-opacity">
+                <a href="https://ubah.app" className="hover:opacity-90 transition-opacity">
                   <Image 
                     src="/logo.svg"
                     alt="UBAH Logo"
